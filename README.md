@@ -3,7 +3,7 @@
 This is my solution for the EKF project for Udacity's
 [Self-Driving Car Nanodegree Program](https://www.udacity.com/drive).
 
-# Building and Running
+## Building and Running
 
 The following instructions assume that you are using a recent Mac. If you are
 not, follow [these instructions](https://www.apple.com/shop/buy-mac/macbook-pro).
