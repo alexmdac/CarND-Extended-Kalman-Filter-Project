@@ -16,6 +16,7 @@ cd ..
 mkdir build
 cd build
 cmake ../work
+make
 ./ExtendedKF
 ```
 
